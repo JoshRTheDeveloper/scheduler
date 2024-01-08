@@ -14,7 +14,7 @@ To be able to save tasks for the day. See if those tasks are in the present, pas
 
 
 ## Deployment
-
+https://joshrthedeveloper.github.io/scheduler/
 
 #### Screenshot
 ![my screenshot](./assets/Screenshot%202024-01-08%20at%205.49.48 PM.png).
